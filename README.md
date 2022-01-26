@@ -11,7 +11,5 @@ The analysis on the Amazon automotive reviews lead to the following results:
 - Out of all the non-Vine reviews, approximately 51.76% of them were 5 star reviews. 
 
 ## Summary
-In your summary, state if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. Then, provide one additional analysis that you could do with the dataset to support your statement.
-
-The summary states whether or not there is bias, and the results support this statement
-An additional analysis is recommended to support the statement
+Based on the results, it appears that only a slight fraction (less than 1%) of all reviews were written by members of the paid Amazaon Vine program. Specifically, only 82 of the 24,824 total reviews were paid Vine program reviews. This indicates that there was minimal to no influence onto the dataset and therefore no positivity bias as a whole. However, the percentage of 5 star reviews within the Vine reviews had a higher rate. Of the total 82 Vine reviews, 33 of them were 5 star reviews, which is approximately 40%. Despite this higher rate, the paid 5 star reviews still do not reflect the overwhelming majority of the paid Vine reviews, and thus indicates that there is no conclusive evidence that there is positivity bias. 
+And additional analysis that could be run on this dataset is to determine the number of paid and unpaid 4 star reviews as well. Although 5 stars is the most favorable and highest excellence of rating, 4 star reviews would still be considered above average. It is possible that there may be more paid Vine 4 star reviews to help boost the perception of products. In this case, an argument could be potentially made that there is positivity bias. However, it would still be very minimal due to the low percentage of VIne reviews compared to non-Vine program reviews.
