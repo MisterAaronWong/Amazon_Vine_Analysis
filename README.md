@@ -14,3 +14,9 @@ In your summary, state if there is any positivity bias for reviews in the Vine p
 
 The summary states whether or not there is bias, and the results support this statement
 An additional analysis is recommended to support the statement
+
+You need following values - 
+1. Total number of review 
+2. Total number of 5 star review 
+3. Percentage of 5 star reviews that are from paid users 
+4. Percentage of 5 star reviews that are from unpaid users
