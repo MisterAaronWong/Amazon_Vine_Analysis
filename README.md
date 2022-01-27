@@ -8,6 +8,7 @@ The analysis on the Amazon automotive reviews lead to the following results:
 - Out of a total of 24,824 total reviews, there were 82 total Vine reviews and 24,742 non-Vine reviews.
 
 ![82](Resources/82.png)
+
 ![24742](Resources/24742.png)
 
 - Out of a total of 12,840 5 star reviews, 33 of them were Vine 5 star reviews and 12,807 of them were non-Vine 5 star reviews.
@@ -19,12 +20,9 @@ The analysis on the Amazon automotive reviews lead to the following results:
 
 ![vine5percent](Resources/vine5percent.png)
 
-
 - Out of all the non-Vine reviews, approximately 51.76% of them were 5 star reviews. 
 
 ![nonvine5percent](Resources/nonvine5percent.png)
-
-
 
 ## Summary
 Based on the results, it appears that only a slight fraction (less than 1%) of all reviews were written by members of the paid Amazaon Vine program. Specifically, only 82 of the 24,824 total reviews were paid Vine program reviews. This indicates that there was minimal to no influence onto the dataset and therefore no positivity bias as a whole. In fact, not all of the 82 paid Vine reviews were even 5 star reviews. However, the percentage of 5 star reviews within the Vine reviews did have a higher rate. Of the total 82 Vine reviews, 33 of them were 5 star reviews, which is approximately 40%. Despite this higher rate, the paid 5 star reviews still do not reflect the overwhelming majority of the paid Vine reviews, and thus indicates that there is no conclusive evidence that there is positivity bias. Ovreall, it appears that the integrity of the reviews for these automotive products are fair and not influenced to be biased.
