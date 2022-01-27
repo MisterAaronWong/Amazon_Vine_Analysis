@@ -7,13 +7,13 @@ The purpose of this analysis was to analyze Amazon reviews written by members of
 The analysis on the Amazon automotive reviews lead to the following results:
 - Out of a total of 24,824 total reviews, there were 82 total Vine reviews and 24,742 non-Vine reviews.
 
-![vinevsnonvine](Resources/vinevsnonvine.png)
-
+![82](Resources/82.png)
+![24742](Resources/24742.png)
 
 - Out of a total of 12,840 5 star reviews, 33 of them were Vine 5 star reviews and 12,807 of them were non-Vine 5 star reviews.
 
-![vinevsnonvine5](Resources/vinevsnonvine5.png)
-
+![33](Resources/33.png)
+![12807](Resources/12807.png)
 
 - Out of all the Vine reviews, approximately 40.24% of them were 5 star reviews.
 
